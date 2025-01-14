@@ -1,9 +1,8 @@
-# Hi, I'm Ignacio! 👋
+# Hola, soy Ignacio! 👋
 
-**Student of Civil Engineering in Informatics and Telecommunications**. Currently focusing on learning more about **artificial intelligence**, with a special interest in **network optimization and data analysis**.
+**Soy estudiante de Ingeniería civil en Informatica y Telecomunicaciones**. Currently focusing on learning more about **artificial intelligence**, with a special interest in **network optimization and data analysis**.
 
-- 🌱 **Learning**: Reinforcement learning and Bayesian networks
-- 💻 **Interests**: Technology, algorithms, and open-source contributions
+- 💻 **Interés**: Ciberseguridad, desarrollo de Software, desarrollo de Tecnologías y aprender nuevas habilidades.
 - 🎮 **Hobbies**: Exploring game mechanics and coding fun side projects
 - 📧 Feel free to reach out: [your-email@example.com](mailto:your-email@example.com)
 
