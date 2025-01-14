@@ -1,11 +1,11 @@
 # ¡Hola! Soy Ignacio 👋
 
-**Estudiante de Ingeniería Civil en Informática y Telecomunicaciones**. 
+**Estudiante de Noveno semestre de Ingeniería Civil en Informática y Telecomunicaciones**. Siempre estoy 
 
-- 🌱 **Aprendiendo**: Redes bayesianas y aprendizaje por refuerzo
+
 - 💻 **Intereses**: Tecnología, algoritmos y contribuciones a proyectos open-source
 - 🎮 **Hobbies**: Explorar mecánicas de videojuegos y desarrollar proyectos personales
-- 📧 Contáctame: [tu-correo@example.com](mailto:tu-correo@example.com)
+- 📧 Contáctame: [icabrera2003@gmail.com](mailto:icabrera2003@gmail.com)
 
 ## Lenguajes y Herramientas:
 Aquí hay algunas de mis habilidades. Siempre estoy abierto a aprender cosas nuevas.
