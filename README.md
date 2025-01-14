@@ -1,10 +1,10 @@
 # ¡Hola! Soy Ignacio 👋
 
-**Estudiante de Noveno semestre de Ingeniería Civil en Informática y Telecomunicaciones**. Siempre estoy 
+**Estudiante de Noveno semestre de Ingeniería Civil en Informática y Telecomunicaciones**. 
 
 
-- 💻 **Intereses**: Tecnología, algoritmos y contribuciones a proyectos open-source
-- 🎮 **Hobbies**: Explorar mecánicas de videojuegos y desarrollar proyectos personales
+- 💻 **Intereses**: Tecnología, Ciberseguridad y las Telecomunicaciones.
+- 🎮 **Hobbies**: Videojuegos, Futbol y la inversión en Criptomonedas
 - 📧 Contáctame: [icabrera2003@gmail.com](mailto:icabrera2003@gmail.com)
 
 ## Lenguajes y Herramientas:
