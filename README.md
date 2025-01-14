@@ -1,6 +1,6 @@
 # Hola, soy Ignacio! 👋
 
-**Soy estudiante de Ingeniería civil en Informatica y Telecomunicaciones**. Currently focusing on learning more about **artificial intelligence**, with a special interest in **network optimization and data analysis**.
+**Soy estudiante de Ingeniería civil en Informatica y Telecomunicaciones**. 
 
 - 💻 **Interés**: Ciberseguridad, desarrollo de Software, desarrollo de Tecnologías y aprender nuevas habilidades.
 - 🎮 **Hobbies**: Exploring game mechanics and coding fun side projects
