@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ignacio 👋
 
-**Estudiante de Noveno semestre de Ingeniería Civil en Informática y Telecomunicaciones**. 
+**Estudiante de Ultimo semestre de Ingeniería Civil en Informática y Telecomunicaciones**. 
 
 
 - 💻 **Intereses**: Tecnología, Ciberseguridad y las Telecomunicaciones.
